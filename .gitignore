@@ -1,0 +1,4 @@
+/application/build/*
+!/application/build/README
+/library/build/*
+!/library/build/README
